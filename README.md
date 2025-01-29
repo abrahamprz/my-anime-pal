@@ -3,6 +3,9 @@
 ## Description
 Chat with your AnimePal about your favorite anime and manga. 
 
+## Note
+**This project is still in development and may not be fully usable even when it's in the main branch. This note will be removed once the project is fully usable with the first release.**
+
 ## Setup and Installation
 1. Clone the repository
 2. Follow ollama's instructions to install the [deepseek-r1:8b](https://ollama.com/library/deepseek-r1:8b) model
